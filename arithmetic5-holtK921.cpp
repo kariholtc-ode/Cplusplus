@@ -7,13 +7,8 @@ using namespace std;
 // Due Date:    7/17/23 by 11 pm
 // Purpose:     Transform PROG1 math5.cpp into program arithmetic5.cpp, which
 //              does the same work, but must use functions.
-// Author:      holtK921 Kari Holt
+// Author:      Kari Holt
 // ---------------------------------------------------------------------------
-
-
-//*****************************************************************
-//****** These functions are placed ABOVE the main. ***************
-//*****************************************************************
 
 // Function: Display copyright.
 void DisplayCopyright(int year, string courseID, string Name)
@@ -198,23 +193,3 @@ int main()
 
    return 0;
 }//main
-
-
-/*    
-
-DELIVERABLES (what you must submit):
-
-[1] Submit your source code to Canvas,  arithemtic5-xxxx.cpp, where xxxx is your course ID.
-[2] Submit a 2-3 minute (MAX)  video named PROG7_Video-xxxx.mp4, where xxxx is your course login. Record the video using Zoom.  The video must show:
-
-   1. You compiling and running your program.
-   2. You showing your source file (no need to explain lines, but make sure I can see:
-         - your header documentation.
-         - function definitions.
-         - Numbered algorithm steps.
-         - function calls in the body of main.
-   3. You using the self-grader to grade your program:
-          Command:  ./gradeMy_arithmetic5.crun
-   4. You, viewing your grading report file:  My_arithmetic5.cpp_gradingreport-xxxx.txt  (xxxx is your course ID).
-*/
-
